@@ -1,4 +1,4 @@
-MonkDB AI Semantic Search
+Vector_database_Monkdb
 
 This project demonstrates AI-powered semantic search using MonkDB as a unified, vector-capable database and Sentence Transformers for text embeddings.
 
